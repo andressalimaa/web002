@@ -1,5 +1,6 @@
 
-body{
-  height: 5000px;
+img{
+  position: fixed;
+  height: 500px;
   width: 100px;
 }
