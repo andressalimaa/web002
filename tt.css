@@ -3,3 +3,18 @@ img{
   height: 750px;
   width: 1295px;
 }
+div{
+	border-radius: 5px;
+	border: 4px solid black;
+	background-color: white;
+	height: 30px;
+	width: 180px;
+	margin: auto;
+	text-align: center;
+}
+a{
+        Color: #ff0066;
+        font-size: 22px;
+	text-decoration: none;
+	text-align: center;
+}
