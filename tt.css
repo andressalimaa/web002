@@ -1,5 +1,5 @@
 
-img{
+body{
   height: 2000px;
   width: 1295px;
 }
@@ -13,11 +13,11 @@ div{
 	background-color: white;
 	height: 30px;
 	width: 180px;
-	margin: auto;
+	margin: center;
 	text-align: center;
 }
 a{
-        Color: #ff0066;
+        color: #ff0066;
         font-size: 22px;
 	text-decoration: none;
 	text-align: center;
