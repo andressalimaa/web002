@@ -7,7 +7,7 @@ body {
 	background-size: 100%;
 }
 p{
-	font-size: Italic;
+	font-size: italic;
 	font-family: Arial;
 	margin-top: 30%;
 	color: black;
@@ -15,9 +15,9 @@ p{
 	
 }
 h2{
-	margin-top: 40%;
+	margin-top: 45%;
 	text-align: center;
-	font-style: Italic;
+	font-style: italic;
 	font-family: Cursive;
 	color: #FF00FF;
 	
