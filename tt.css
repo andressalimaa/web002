@@ -1,4 +1,9 @@
-
+body { 
+    background-image: url("http://41.media.tumblr.com/9a6f361f7eceeaafe60af672db343a19/tumblr_ne4xq64hoz1tqtfrjo1_500.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
 h2{
 	font-style: Italic;
 	font-family: Cursive;
