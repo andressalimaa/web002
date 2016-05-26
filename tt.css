@@ -8,14 +8,14 @@ body {
 }
 p{
 	font-size: italic;
-	font-family: Arial;
-	margin-top: 30%;
+	font-family: Monospace ;
+	margin-top: 35%;
 	color: black;
 	text-align: right;
 	
 }
 h2{
-	margin-top: 20%;
+
 	text-align: center;
 	font-style: italic;
 	font-family: Cursive;
@@ -23,7 +23,7 @@ h2{
 	
 }
 div{
-	margin-top: 20%;
+
 	border-radius: 5px;
 	border: 4px double black;
 	background-color: black;
